@@ -2,7 +2,7 @@
 
 Computational verification code and manuscript source for the article
 *Multiplicative-Order Parametrized Digraphs*, in preparation for submission to
-the Electronic Journal of Combinatorics.
+the (PLACEHOLDER).
 
 **Author:** William Kau&atilde; Soares da Silva (Universidade Federal Rural de Pernambuco)
 
