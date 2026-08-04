@@ -42,7 +42,7 @@ $n = 3$ is left open.
 ## Repository contents
 
 - `manuscript/` &mdash; LaTeX source of the article (E-JC house style).
-- `code/` &mdash; Python scripts (sympy/numpy) implementing the computational
+- `code/` Multiplicative_Order_Parametrized_Digraphs.ipynb; Python scripts (sympy/numpy) implementing the computational
   searches reported in the article:
   - exhaustive triangle search over all odd primes below $3 \times 10^{5}$
     for aligned triples;
